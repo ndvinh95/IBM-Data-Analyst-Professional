@@ -12,3 +12,44 @@ This folder contains data files and a Jupyter Notebook script that demonstrates 
 * _Chicago_Crime_Data.csv_ reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. For more detailed information, see the [data description](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2).  
 * _Chicago_Public_Schools.csv_ shows all school level performance data used to create CPS School Report Cards for the 2011-2012 school year. For more detailed information, see the [data description](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t).  
 * _PeerAssign-v5.ipynb_ contains the script with ipython-sql code, which is used to query the datasets after they were loaded into a Db2 database on IBM Cloud.
+
+### Solutions:
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q1.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q2.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q3.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q4.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q5.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q6.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q7.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q8.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q9.jpg">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q10.jpg">
+</p>
