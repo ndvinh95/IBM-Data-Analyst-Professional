@@ -15,7 +15,7 @@ This folder contains data files and a Jupyter Notebook script that demonstrates 
 
 ## Solutions
 <p align="center">
-  <img width="100%" height="100%" src="/IMG/Q1.PNG">
+  <img width="100%" height="100%" src="IBM-Data-Analyst-Professional/Databases-and-SQL-for-Data-Science-with-Python/IMG/Q1.PNG">
 </p>
 
 <p align="center">
