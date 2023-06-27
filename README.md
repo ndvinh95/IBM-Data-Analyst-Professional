@@ -33,7 +33,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 <img src="/Certificate/Excel_Basics_for_Data_Analysis_Certificate.jpg" width=60% height=60%>
 
 
-- [X] [__Data Visualization and Dashboards with Excel and Cognos__ ]
+- [X] [__Data Visualization and Dashboards with Excel and Cognos__]
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
