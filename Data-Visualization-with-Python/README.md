@@ -9,7 +9,7 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
 * ### **Line Plots**
 <p align="center">
-<img src="Data-Visualization-with-Python/IMG/Line-Plots/output_91_0.png" width=60% height=60%>
+<img src="/Data-Visualization-with-Python/IMG/Line-Plots/output_91_0.png" width=60% height=60%>
 
 <p align="center">
 <img src="/Data-Visualization-with-Python/IMG/Line-Plots/output_103_0.png" width=60% height=60%>
